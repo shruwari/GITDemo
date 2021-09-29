@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="MavenProject1.MavenPro1.test"/>
+      <class name="MavenProject1.MavenPro1.AppTest"/>
+      <class name="MavenProject1.MavenPro1.selTestMarch"/>
+      <class name="MavenProject1.MavenPro1.AppiumTest"/>
+      <class name="MavenProject1.MavenPro1.SeleniumTest"/>
+      <class name="MavenProject1.MavenPro1.Test123"/>
+      <class name="MavenProject1.MavenPro1.RestAPITest"/>
+      <class name="MavenProject1.MavenPro1.Seletest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
